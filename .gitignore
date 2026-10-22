@@ -1,0 +1,6 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+fitness_weekly_summary.txt
+fitness_exercise_note.txt
